@@ -1,1 +1,3 @@
 rembg[cpu]
+torch
+transformers
